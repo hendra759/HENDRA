@@ -2,11 +2,11 @@
 * "Jangan modal nama doang bro!!!"
 * (Scriptnya Aris187 ID).
 */
-const BotName = '👾HENDRA MAULANA👾'; // Nama Bot Whatsapp
+const BotName = '👾BOT HM👾'; // Nama Bot Whatsapp
 const instagramlu = 'https://instagram.com/Hendra.stror'; // Nama Instagramlu cok
 const whatsapplu = 'Wa.me/62881037651044'; // Nomor whatsapplu cok
 const kapanbotaktif = 'Tergantung jaringan'; // Kapan bot lu aktif
-const grupch1 = 'KOSONG'; // OFFICIAL GRUP LU 1
+const grupch1 = 'https://chat.whatsapp.com/LrGn2PqnMiM2Qq5GuxMSxF'; // OFFICIAL GRUP LU 1
 const grupch2 = 'KOSONG'; // OFFICIAL GRUP LU 2
 const grupch3 = 'KOSONG'; // OFFICIAL GRUP LU 3
 //
