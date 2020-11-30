@@ -140,10 +140,7 @@ else if (text == 'Asu'){
 conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
 }
 else if (text == '.owner'){
-conn.sendMessage(id, 'Owner AR15BOT wa.me/+6285722553839' ,MessageType.text);
-}
-else if (text == 'Aris'){
-conn.sendMessage(id, 'Aku BOT nya Aris187 ID' ,MessageType.text);
+conn.sendMessage(id, 'Owner hendra wa.me/6282147078449' ,MessageType.text);
 }
 else if (text == 'Ngentod'){
 conn.sendMessage(id, 'Pengin ngentod?' ,MessageType.text);
